@@ -12,9 +12,11 @@
 (我建议其他语言/框架的开发者可以用自己喜欢的语言开发一个同样的东西)
 
 ## 和同类产品的区分点(或者说优势/使用场景)
-"代码模板"有很多, 例子: Sjabloon - $79, Jumpstart - $149, $449, BulletTrain - $1450   
+"代码模板"有很多 (不管它们是叫 SaaS Template 还是 Starter Kit) 
+例子: Sjabloon - $79, Jumpstart - $149, $449, BulletTrain - $1450   
 [全列表可看这里](https://github.com/1c7/SaaS-Code-Templates)  
 区分点: 这些都是外国人写的, 针对外国市场, 支付是 Paypal 和 Stripe, 登录是 Facebook 和 Twitter  
+
 Milk 的区分点: **完全针对国内市场**
 
 **目前功能有**
