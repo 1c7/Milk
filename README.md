@@ -12,12 +12,19 @@
 (我建议其他语言/框架的开发者可以用自己喜欢的语言开发一个同样的东西)
 
 ## 和同类产品的区分点(或者说优势/使用场景)
-"代码模板"有很多 (不管它们是叫 SaaS Template 还是 Starter Kit) 
-例子: Sjabloon - $79, Jumpstart - $149, $449, BulletTrain - $1450   
-[全列表可看这里](https://github.com/1c7/SaaS-Code-Templates)  
-区分点: 这些都是外国人写的, 针对外国市场, 支付是 Paypal 和 Stripe, 登录是 Facebook 和 Twitter  
+"代码模板"已经有不少了 (英文名叫 SaaS Template 或 Starter Kit)       
 
-Milk 的区分点: **完全针对国内市场**
+举 3 个例子: 
+
+* [Sjabloon - $79](https://www.getsjabloon.com/)
+* [BulletTrain - $1450](https://bullettrain.co/)
+* [Gravity (Node.js, React.js) - $97, $497, $997](https://usegravity.app/)  
+
+[全列表请看这里(有15个)](https://github.com/1c7/SaaS-Code-Templates)     
+
+区别: 
+这些都是外国人写的, 针对外国市场, 支付是 Paypal 和 Stripe, 登录是 Facebook 和 Twitter  
+Milk **完全针对国内市场**
 
 **目前功能有**
 * 支付: 微信支付, 支付宝支付
