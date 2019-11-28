@@ -28,9 +28,9 @@
 [全列表请看这里(有15个)](https://github.com/1c7/SaaS-Code-Templates)     
 
 区别: 这些都是外国人写的, 针对外国市场, 支付是 Paypal 和 Stripe,    
-登录是 Facebook, Twitter, Google, Github  价格还死贵死贵     
+登录是 Facebook, Twitter, Google, Github。这些都不适用于国内市场     
 
-而 Milk **完全针对国内市场**
+而 Milk 是 **完全针对国内市场设计**
 
 **目前功能有**
 * 支付: 微信支付, 支付宝支付
