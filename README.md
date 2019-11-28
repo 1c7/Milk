@@ -42,10 +42,17 @@
 * 图床 (七牛/又拍云)
 * 文件存储 (阿里云/七牛) 
 
-有建议欢迎提出, 以上功能的优先级取决于用户反馈
+有建议欢迎提出, 以上功能的优先级取决于用户反馈   
+如果要求第三方个人支付的呼声高 (如 Payjs, Xorpay, BufPay 等), 也可以针对这些支付方式进行开发
 
 ### 如何使用
-git clone 本项目即可
+```
+git clone git@github.com:1c7/Milk.git
+cd Milk/
+bundle install
+rails s
+```
+然后像正常 Rails 项目一样继续开发即可
 
 ### 技术栈
 * Ruby on Rails 6 (代码)
